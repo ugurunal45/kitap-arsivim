@@ -1,0 +1,1 @@
+// Supabase ayarları (sonra)
